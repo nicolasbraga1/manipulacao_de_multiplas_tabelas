@@ -1,11 +1,42 @@
-<h1 align="center"> Manipulação de Múltiplas Tabelas </h1>
+# App de Música
 
-Olá e boas vindas ao projeto Manipulação de Múltiplas Tabelas.
-Com ele você é capaz de interagir com várias tabelas de uma vez, podendo lê-las ou alterá-las como quiser.
-Para desenvolvê-lo utilizei de MySQL para criar os comandos da tabela.
+Quer um lugar para ouvir músicas e ter como salvá-las como favoritas para um acesso mais rápido? O meu App de Música tá aqui pra te ajudar com isso!
 
-________________________________________________________________________________
+## 🚀 Começando
 
-Hello and welcome to the project Handling of Multiple Tables.
-With it you’re able to interact with multiple tables at once, and you can read or change them however you want.
-To develop it I used MySQL to create the table commands.
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+
+### 📋 Pré-requisitos
+
+De que coisas você precisa para instalar o software e como instalá-lo?
+
+```
+Docker-Compose versão 1.29 ou superior
+```
+
+### 🔧 Instalação
+
+- Para conseguir criar os serviços do projeto:
+
+```
+ℹ️ Rode os serviços node e db com o comando docker-compose up -d.
+```
+
+- Esses serviços irão inicializar um container chamado `one_for_all` e outro chamado `one_for_all_db`.
+- A partir daqui você pode rodar o container `one_for_all` via CLI ou abri-lo no VS Code.
+
+```
+Use o comando `docker exec -it one_for_all bash`.
+```
+
+ℹ️ Instale as dependências com npm install. (Instale dentro do container)
+
+
+## 🛠️ Construído com
+
+* [JavaScript]([http://www.dropwizard.io/1.0.2/docs/](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)) - A linguagem principal usada
+* [HTML]([https://maven.apache.org/](https://developer.mozilla.org/pt-BR/docs/Web/HTML)) - Usado na criação das páginas
+
+## ✒️ Autores
+
+* **Nícolas Braga** - *Trabalho Inicial* - [Nícolas Braga](https://github.com/nicolasbraga1)
