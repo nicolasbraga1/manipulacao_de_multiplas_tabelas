@@ -34,8 +34,7 @@ Use o comando `docker exec -it one_for_all bash`.
 
 ## 🛠️ Construído com
 
-* [JavaScript]([http://www.dropwizard.io/1.0.2/docs/](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)) - A linguagem principal usada
-* [HTML]([https://maven.apache.org/](https://developer.mozilla.org/pt-BR/docs/Web/HTML)) - Usado na criação das páginas
+* Comandos usados no MySQL
 
 ## ✒️ Autores
 
