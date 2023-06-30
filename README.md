@@ -1,6 +1,6 @@
-# App de Música
+# Manipulação de múltiplas tabelas
 
-Quer um lugar para ouvir músicas e ter como salvá-las como favoritas para um acesso mais rápido? O meu App de Música tá aqui pra te ajudar com isso!
+Se você tiver dúvidas de como faz pra lidar com mais de uma tabela no MySQL de uma vez, eu tenho aqui um projeto que faz exatamente isso para você usar de base.
 
 ## 🚀 Começando
 
