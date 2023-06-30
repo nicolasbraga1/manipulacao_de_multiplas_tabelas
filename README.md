@@ -1,7 +1,5 @@
 <h1 align="center"> Manipulação de Múltiplas Tabelas </h1>
 
-English version below
-
 Olá e boas vindas ao projeto Manipulação de Múltiplas Tabelas.
 Com ele você é capaz de interagir com várias tabelas de uma vez, podendo lê-las ou alterá-las como quiser.
 Para desenvolvê-lo utilizei de MySQL para criar os comandos da tabela.
